@@ -23,3 +23,7 @@ Level | Star | (如果滿分共十粒)
 
 ![ScreenGif](https://user-images.githubusercontent.com/109954610/215251120-e65f1355-de9d-4006-8297-e018ae183374.gif)
 
+
+![圖片3](https://user-images.githubusercontent.com/109954610/215163336-57a0950e-9bb7-41e0-8580-2df03916c9d8.png)
+![圖片2](https://user-images.githubusercontent.com/109954610/215163342-0b986f9f-b84d-4204-ae13-0c813349e1ec.png)
+
