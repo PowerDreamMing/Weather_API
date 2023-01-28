@@ -21,4 +21,5 @@ A | B | C
 Level | Star | (如果滿分共十粒)  
 困難程度 | 3粒星 | <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"  /><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/109954610/215161672-04cec82a-1a9a-4cd6-bac7-066ea66e2ce2.gif"/> 
 
-![ScreenGif](https://user-images.githubusercontent.com/109954610/215251106-ae2cbb5e-f77d-4cc2-a793-ca72320be5f2.gif)
+![ScreenGif](https://user-images.githubusercontent.com/109954610/215251120-e65f1355-de9d-4006-8297-e018ae183374.gif)
+
